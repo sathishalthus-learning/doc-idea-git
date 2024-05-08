@@ -1,1 +1,1 @@
-# doc-idea-git
+# doc-idea-git-learning
